@@ -68,7 +68,7 @@ Why:
 ________________________________________
 3) Download OrangeHRM and place files
 # Get the repo that contains OrangeHRM 4.0 zip
-git clone https://github.com/SHRIDHARMUDASHI/orangehrms.git
+git clone https://github.com/naveenmarathi/orangehrms.git
 cd orangehrms
 
 # Move the application zip into the web root
