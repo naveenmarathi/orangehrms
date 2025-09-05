@@ -104,8 +104,8 @@ Paste:
 <VirtualHost *:80>
     ServerAdmin admin@example.com
     DocumentRoot /var/www/orangehrm
-    ServerName example.com
-    ServerAlias www.example.com
+    ServerName DNS Name
+    ServerAlias www.DNSNAME.com
 
     <Directory /var/www/orangehrm/>
         Options +FollowSymLinks
